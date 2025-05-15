@@ -1,2 +1,1 @@
-# xdwiki
-my wiki
+This is xd wiki.
