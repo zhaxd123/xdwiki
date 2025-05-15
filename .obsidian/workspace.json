@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e55cfbf93a8ac459",
+        "id": "e1583978e3e14d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "c55806cc25bbfed0",
+            "id": "c8fb55af446ea7cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c55806cc25bbfed0",
+  "active": "db60f33fb7b349d3",
   "lastOpenFiles": [
+    "💌 Inbox/一种知识管理流.md",
     "📑 Notes/词条分类助手Prompt.md",
     "💌 Inbox/重新定义AI的边界：深入探索模型上下文协议（MCP）的魅力与未来.md",
     "💌 Inbox/手机接码平台对比.md",
