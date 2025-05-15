@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74cc709500c16c0c",
+        "id": "e55cfbf93a8ac459",
         "type": "tabs",
         "children": [
           {
-            "id": "357309813759217d",
+            "id": "c55806cc25bbfed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "7fda5ec57da24df3",
@@ -162,12 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db60f33fb7b349d3",
+  "active": "c55806cc25bbfed0",
   "lastOpenFiles": [
+    "📑 Notes/词条分类助手Prompt.md",
+    "💌 Inbox/重新定义AI的边界：深入探索模型上下文协议（MCP）的魅力与未来.md",
+    "💌 Inbox/手机接码平台对比.md",
+    "💌 Inbox/支持WebDAV的免费网盘服务比较分析报告.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "README.md",
     "💌 Inbox",
     "📑 Notes",
-    "📚 Wikis",
-    "README.md"
+    "📚 Wikis"
   ]
 }
