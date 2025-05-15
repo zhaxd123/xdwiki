@@ -39,3 +39,5 @@ if %ERRORLEVEL% neq 0 (
 echo Git commit success！
 exit /b 0
 ```
+
+增加运行脚本和任务计划
