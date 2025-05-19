@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "8651a2c676078e9b",
+            "id": "d1d4c8fbec523cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "joblib库，Parallel 和 delayed.md",
+                "file": "📑 Notes/【课程笔记】Puppy量化笔记/1. 数据预处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "joblib库，Parallel 和 delayed"
+              "title": "1. 数据预处理"
+            }
+          },
+          {
+            "id": "9ed726df7a01dd3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💌 Inbox/Alpha158 和 Alpha360.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alpha158 和 Alpha360"
             }
           }
         ],
@@ -55,10 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -92,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "7fda5ec57da24df3",
@@ -169,42 +185,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8651a2c676078e9b",
+  "active": "d1d4c8fbec523cc1",
   "lastOpenFiles": [
+    "💌 Inbox/重新定义AI的边界：深入探索模型上下文协议（MCP）的魅力与未来.md",
+    "💌 Inbox/Alpha158 和 Alpha360.md",
+    "📑 Notes/【效率提升】Prompt 收集/词条分类助手.md",
+    "💌 Inbox/支持WebDAV的免费网盘服务比较分析报告.md",
+    "💌 Inbox/量化交易中的风格化因子和中性因子.md",
+    "📑 Notes/【效率提升】NotebookLM + Obsidian 知识管理流.md",
+    "📑 Notes/【效率提升】工具平台/接码平台一览表.md",
+    "📑 Notes/【效率提升】工具平台",
+    "📑 Notes/【课程笔记】Puppy量化笔记/1. 数据预处理.md",
+    "📑 Notes/Puppy量化笔记/数据预处理.md",
+    "_templates/课程笔记.md",
+    "📑 Notes/Puppy量化笔记/第一章 数据预处理.md",
+    "📑 Notes/【效率提升】Prompt 收集",
+    "💌 Inbox/joblib库，Parallel 和 delayed.md",
+    "💌 Inbox/Autogit.md",
     "📚 Wikis/fill.txt",
     "📚 Wikis/新建文本文档.txt",
-    "💌 Inbox/量化交易中的风格化因子和中性因子.md",
-    "joblib库，Parallel 和 delayed.md",
-    "📑 Notes/Puppy量化笔记/第一章 数据预处理.md",
-    "📑 Notes/词条分类助手Prompt.md",
-    "_templates/课程笔记.md",
     "_templates/Wiki 模板.md",
     "课程名.md",
-    "📑 Notes/Puppy量化笔记/数据预处理.md",
     "概念词条A.md",
     "README.md",
     "_templates/课程笔记模板.md",
     "_templates/课程笔记模板2.md",
     "数据预处理.md",
-    "📑 Notes/Puppy量化笔记/1. 数据预处理.md",
     "_templates",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "📑 Notes/Puppy量化笔记",
-    "💌 Inbox/Autogit.md",
-    "💌 Inbox/一种知识管理流.md",
-    "💌 Inbox/重新定义AI的边界：深入探索模型上下文协议（MCP）的魅力与未来.md",
-    "💌 Inbox/手机接码平台对比.md",
-    "💌 Inbox/支持WebDAV的免费网盘服务比较分析报告.md",
+    "📑 Notes/【课程笔记】Puppy量化笔记",
     "Untitled 1.md",
     "💌 Inbox",
     "📑 Notes",
