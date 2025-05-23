@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8145ed6340927d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📑 Notes/【效率提升】Prompt 收集/Python库介绍专家.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python库介绍专家"
-            }
-          },
-          {
             "id": "9b7fd4d23044c722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习.md",
+                "file": "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "强化学习"
-            }
-          },
-          {
-            "id": "31101171b25c2967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "无监督学习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无监督学习"
+              "title": "0. 什么是机器学习"
             }
           }
         ]
@@ -105,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7fda5ec57da24df3",
@@ -191,13 +164,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8145ed6340927d8b",
+  "active": "9b7fd4d23044c722",
   "lastOpenFiles": [
-    "📑 Notes/【效率提升】Prompt 收集/分类扩展专家.md",
+    "强化学习.md",
     "📑 Notes/【效率提升】Prompt 收集/Python库介绍专家.md",
+    "📑 Notes/【效率提升】Prompt 收集/分类扩展专家.md",
     "📑 Notes/【效率提升】Prompt 收集/词条分类助手.md",
     "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
-    "强化学习.md",
     "无监督学习.md",
     "监督学习.md",
     "📑 Notes/【效率提升】NotebookLM + Obsidian 知识管理流.md",
