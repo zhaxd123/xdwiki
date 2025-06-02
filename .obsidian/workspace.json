@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
+                "file": "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 什么是机器学习"
+              "title": "1. 模型评估方法与准则"
             }
           }
         ]
@@ -40,10 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "7fda5ec57da24df3",
@@ -155,20 +155,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "37375740e4832422",
   "lastOpenFiles": [
+    "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
+    "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
     "💌 Inbox/方差和标准差.md",
     "💌 Inbox/量化交易中的风格化因子和中性因子.md",
-    "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
     "📑 Notes/【课程笔记】Puppy量化笔记/1. 数据预处理.md",
     "强化学习.md",
     "📑 Notes/【效率提升】Prompt 收集/Python库介绍专家.md",
@@ -197,7 +198,6 @@
     "README.md",
     "_templates/课程笔记模板.md",
     "_templates/课程笔记模板2.md",
-    "数据预处理.md",
     "_templates",
     "Untitled 1.canvas",
     "Untitled.canvas",
