@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
+                "file": "💌 Inbox/nlohmann_json 3.9.0 源码详解 By ChatGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 模型评估方法与准则"
+              "title": "nlohmann_json 3.9.0 源码详解 By ChatGPT"
+            }
+          },
+          {
+            "id": "bb5e0fa107bccb84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💌 Inbox/nlohmann_json 源码解析：功能、C++ 实现与代码技巧深度剖析 By Gemini.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nlohmann_json 源码解析：功能、C++ 实现与代码技巧深度剖析 By Gemini"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "7fda5ec57da24df3",
@@ -166,8 +181,12 @@
   },
   "active": "37375740e4832422",
   "lastOpenFiles": [
-    "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
+    "💌 Inbox/nlohmann_json 源码解析：功能、C++ 实现与代码技巧深度剖析 By Gemini.md",
+    "💌 Inbox/nlohmann_json 3.9.0 源码详解 By ChatGPT.md",
+    "💌 Inbox/std_optional.md",
+    "💌 Inbox/inline 修饰变量定义.md",
     "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
+    "📑 Notes/【学习笔记】机器学习/0. 什么是机器学习.md",
     "💌 Inbox/方差和标准差.md",
     "💌 Inbox/量化交易中的风格化因子和中性因子.md",
     "📑 Notes/【课程笔记】Puppy量化笔记/1. 数据预处理.md",
@@ -194,10 +213,6 @@
     "_templates/Wiki 模板.md",
     "课程名.md",
     "📑 Notes/Puppy量化笔记/数据预处理.md",
-    "概念词条A.md",
-    "README.md",
-    "_templates/课程笔记模板.md",
-    "_templates/课程笔记模板2.md",
     "_templates",
     "Untitled 1.canvas",
     "Untitled.canvas",
