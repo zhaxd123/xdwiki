@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💌 Inbox/SQL Cheatsheet.md",
+                "file": "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Cheatsheet"
+              "title": "1. 模型评估方法与准则"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "7fda5ec57da24df3",
@@ -166,9 +167,16 @@
   },
   "active": "bb5e0fa107bccb84",
   "lastOpenFiles": [
-    "💌 Inbox/nlohmann_json 源码解析：功能、C++ 实现与代码技巧深度剖析 By Gemini.md",
-    "💌 Inbox/SQL Cheatsheet.md",
+    "混淆矩阵.md",
+    "监督学习.md",
+    "README.md",
+    "无监督学习.md",
+    "强化学习.md",
+    "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
+    "💌 Inbox/so 调用符号解析问题排查.md",
     "💌 Inbox/std string_view.md",
+    "💌 Inbox/SQL Cheatsheet.md",
+    "💌 Inbox/nlohmann_json 源码解析：功能、C++ 实现与代码技巧深度剖析 By Gemini.md",
     "📑 Notes/【课程笔记】老齐 Clickhouse 实战/3. Clickhouse 介绍.md",
     "📑 Notes/【课程笔记】老齐 Clickhouse 实战/2. OLAP 的架构分类.md",
     "📑 Notes/【课程笔记】老齐 Clickhouse 实战/1. OLTP 和 OLAP.md",
@@ -180,23 +188,16 @@
     "💌 Inbox/std optional.md",
     "💌 Inbox/nlohmann_json 3.9.0 源码详解 By ChatGPT.md",
     "💌 Inbox/inline 修饰变量定义.md",
-    "📑 Notes/【学习笔记】机器学习/1. 模型评估方法与准则.md",
     "💌 Inbox/方差和标准差.md",
     "💌 Inbox/量化交易中的风格化因子和中性因子.md",
-    "强化学习.md",
     "📑 Notes/【效率提升】Prompt 收集/Python库介绍专家.md",
     "📑 Notes/【效率提升】Prompt 收集/分类扩展专家.md",
     "📑 Notes/【效率提升】Prompt 收集/词条分类助手.md",
-    "无监督学习.md",
-    "监督学习.md",
     "📑 Notes/【效率提升】NotebookLM + Obsidian 知识管理流.md",
     "📑 Notes/【学习笔记】机器学习",
-    "joblib库，Parallel 和 delayed.md",
     "📑 Notes/【课程笔记】Puppy量化笔记",
-    "📑 Notes/【效率提升】工具平台/接码平台一览表.md",
     "📑 Notes/【效率提升】工具平台",
     "📑 Notes/【效率提升】Prompt 收集",
-    "💌 Inbox/joblib库，Parallel 和 delayed.md",
     "📚 Wikis/fill.txt",
     "📚 Wikis/新建文本文档.txt",
     "_templates",
